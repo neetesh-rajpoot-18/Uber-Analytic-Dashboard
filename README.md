@@ -23,7 +23,7 @@ It highlights key performance metrics such as bookings, revenue, ratings, and tr
 3. Explore interactive charts and filters  
 
 ## Demo
-![Dashboard Screenshot](link-to-dashboard-image)
+![Dashboard Screenshot](https://github.com/neetesh-rajpoot-18/Uber-Analytic-Dashboard/blob/main/Uber%20Analytic%20SS.png)
 
 ## Author
 Created by [Neetesh Rajpoot](https://github.com/neetesh-rajpoot-18)  
